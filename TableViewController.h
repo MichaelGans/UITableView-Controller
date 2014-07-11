@@ -1,5 +1,5 @@
 //
-//  MGAViewController.h
+//  TableViewController.h
 //  UITableViewController Challenge
 //
 //  Created by Michael Gans on 2014-07-11.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MGAViewController : UIViewController
+@interface TableViewController : UITableViewController
 
 @end
